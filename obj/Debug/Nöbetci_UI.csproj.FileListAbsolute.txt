@@ -1,0 +1,11 @@
+C:\Users\senev\Documents\VS\Nöbetci_UI\bin\Debug\Nöbetci_UI.exe.config
+C:\Users\senev\Documents\VS\Nöbetci_UI\bin\Debug\Nöbetci_UI.exe
+C:\Users\senev\Documents\VS\Nöbetci_UI\bin\Debug\Nöbetci_UI.pdb
+C:\Users\senev\Documents\VS\Nöbetci_UI\obj\Debug\Nöbetci_UI.csprojAssemblyReference.cache
+C:\Users\senev\Documents\VS\Nöbetci_UI\obj\Debug\Nöbetci_UI.csproj.ResolveComReference.cache
+C:\Users\senev\Documents\VS\Nöbetci_UI\obj\Debug\Nöbetci_UI.Form1.resources
+C:\Users\senev\Documents\VS\Nöbetci_UI\obj\Debug\Nöbetci_UI.Properties.Resources.resources
+C:\Users\senev\Documents\VS\Nöbetci_UI\obj\Debug\Nöbetci_UI.csproj.GenerateResource.cache
+C:\Users\senev\Documents\VS\Nöbetci_UI\obj\Debug\Nöbetci_UI.csproj.CoreCompileInputs.cache
+C:\Users\senev\Documents\VS\Nöbetci_UI\obj\Debug\Nöbetci_UI.exe
+C:\Users\senev\Documents\VS\Nöbetci_UI\obj\Debug\Nöbetci_UI.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nöbetci_UI", "Nöbetci_UI.csproj", "{AD7BD530-CFC1-4FDF-8ED4-F8AE93CF5155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD7BD530-CFC1-4FDF-8ED4-F8AE93CF5155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7BD530-CFC1-4FDF-8ED4-F8AE93CF5155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7BD530-CFC1-4FDF-8ED4-F8AE93CF5155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7BD530-CFC1-4FDF-8ED4-F8AE93CF5155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37C1F76C-DBC3-4A5D-BB6A-869405508EEF}
+	EndGlobalSection
+EndGlobal
